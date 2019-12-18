@@ -1,0 +1,35 @@
+Number	Participant_ID	Gender	Cavities	Oral_Infections_P_G	Current_dental_devices_NG_R	Nonantibiotic_oral_medications	Missing_teeth	Adenoids_or_tonsils_removed	Alcohol_Consumption	Coffee_Consumption	Dietary_Restrictions	Toothpaste_Brand	Current_Toothbrush_Duration	Brushing_Teeth_Frequency	Toothbrush_Location	Nearby_Toothbrush	Floss_Frequency	Mouthwash_Frequency	Bathroom_Window	Window_Open_Frequency	HVAC	Pets	Disinfecting_Techniques	DNA_conc_ng_ul
+1	A2	Female	5-Jan	Yes	None	No	No	No	Yes	often	Yes	Other	< 1 month	2x	Sink Ledge	Yes	1-3x per week	1-3x per week	No	never	Yes	No	No	6.03
+2	A5	Female	5-Jan	None	NA	Yes	No	No	Yes	rarely-never	None	Crest	> 3 months	1x	Sink Ledge	Yes	1-3x per week	Less frequent	No	never	No	No	No	24.91
+3	A7	Female	>5	None	NA	Yes	Yes	No	Yes	often	None	Other	> 3 months	2x	Cabinet/Drawer	No	Daily	Less frequent	Yes	d-w	Yes	No	No	10.81
+4	A9	Male	5-Jan	None	None	No	Yes	Yes	Yes	rarely-never	None	Colgate	1 - 2 months	2x	Cabinet/Drawer	No	Daily	Daily	Yes	d-w	Yes	No	Yes	44.26
+5	A10	Female	0	Yes	None	No	No	No	Yes	often	None	Other	1 - 2 months	2x	Cabinet/Drawer	Yes	1-3x per week	1-3x per week	Yes	<monthly	No	Yes	Yes	1
+6	A11	Female	5-Jan	Yes	None	No	No	No	Yes	rarely-never	None	Crest	> 3 months	2x	Sink Ledge	No	Daily	Daily	Yes	d-w	Yes	Yes	Yes	1.12
+7	A16	Male	>5	Yes	None	No	Yes	No	No	often	None	Colgate	2 - 3 months	>2x	Cabinet/Drawer	No	Daily	Daily	No	never	Yes	Yes	No	13.87
+8	A17	Male	>5	None	None	No	Yes	Yes	Yes	often	Yes	Other	> 3 months	1x	Sink Ledge	No	1-3x per week	Daily	Yes	d-w	Yes	Yes	No	72.15
+9	A18	Male	5-Jan	None	None	No	No	Yes	Yes	often	None	Colgate	2 - 3 months	1x	NA	Yes	1-3x per week	1-3x per week	Yes	d-w	No	No	No	20.4
+10	A19	Female	>5	None	None	Yes	Yes	Yes	No	rarely-never	Yes	Other	< 1 month	2x	Sink Ledge	Yes	Daily	1-3x per week	No	never	Yes	No	No	2.94
+11	A22	Female	0	None	None	Yes	No	Yes	Yes	often	Yes	Other	< 1 month	2x	Sink Ledge	Yes	1-3x per week	Less frequent	No	never	Yes	No	No	126.89
+12	A23	Male	0	None	None	Yes	No	Yes	Yes	often	None	Colgate	1 - 2 months	1x	NA	No	Less frequent	Less frequent	Yes	d-w	No	Yes	No	0.56
+13	B6	Female	NA	None	Yes	Yes	No	No	No	rarely-never	None	Colgate	> 3 months	2x	Sink Ledge	Yes	Less frequent	Less frequent	No	never	Yes	No	No	1.37
+14	B8	Female	>5	None	None	Yes	Yes	No	Yes	often	None	Other	2 - 3 months	>2x	Sink Ledge	No	1-3x per week	Less frequent	No	never	Yes	No	No	60.18
+15	B12	Male	5-Jan	Yes	Yes	Yes	No	No	No	rarely-never	None	Colgate	1 - 2 months	2x	Sink Ledge	Yes	Daily	1-3x per week	Yes	<monthly	Yes	No	No	3.18
+16	B28	Female	>5	None	None	Yes	No	No	No	often	Yes	Other	2 - 3 months	1x	Cabinet/Drawer	Yes	Less frequent	1-3x per week	Yes	d-w	Yes	Yes	Yes	0.75
+17	B29	Female	>5	None	Yes	Yes	No	No	Yes	often	None	Other	> 3 months	2x	Sink Ledge	Yes	Daily	Daily	Yes	d-w	Yes	No	No	0.23
+18	B30	Female	>5	None	None	Yes	No	Yes	Yes	often	None	Colgate	> 3 months	2x	Sink Ledge	No	Daily	Less frequent	Yes	d-w	No	Yes	No	16.41
+19	B32	Male	>5	Yes	None	No	No	No	Yes	often	None	Crest	1 - 2 months	2x	NA	No	Daily	Daily	Yes	<monthly	Yes	No	No	8.94
+20	B34	Female	NA	None	None	No	No	No	No	rarely-never	None	Colgate	< 1 month	2x	Sink Ledge	No	Less frequent	Less frequent	No	never	Yes	No	No	0.32
+21	B35a	Female	>5	None	Yes	Yes	No	No	Yes	often	Yes	Crest	> 3 months	2x	NA	No	Less frequent	Less frequent	NA	NA	Yes	Yes	No	0.17
+22	B35b	Female	>5	None	Yes	Yes	No	No	Yes	often	Yes	Crest	> 3 months	2x	Sink Ledge	No	Less frequent	Less frequent	Yes	weekly	Yes	Yes	No	13.56
+23	B37	Female	5-Jan	None	None	Yes	No	Yes	Yes	often	None	Other	> 3 months	2x	Sink Ledge	No	Less frequent	Less frequent	Yes	d-w	Yes	Yes	No	30.35
+24	B39	Female	>5	None	Yes	Yes	No	No	No	rarely-never	Yes	Other	1 - 2 months	>2x	Sink Ledge	No	Daily	Less frequent	No	never	Yes	Yes	No	4.56
+25	B42	Female	0	None	Yes	No	No	No	No	rarely-never	None	Crest	> 3 months	>2x	Sink Ledge	No	Daily	Less frequent	No	never	Yes	Yes	No	1.71
+26	B44	Female	>5	None	NA	Yes	Yes	No	Yes	often	None	Other	1 - 2 months	2x	Sink Ledge	No	Daily	Less frequent	Yes	<monthly	Yes	No	No	3.56
+27	B47	Male	5-Jan	None	None	No	Yes	No	No	often	None	Crest	< 1 month	2x	Cabinet/Drawer	No	Daily	Less frequent	Yes	d-w	No	No	No	14.48
+28	B49	Female	>5	None	None	Yes	No	Yes	Yes	often	None	Crest	1 - 2 months	2x	Cabinet/Drawer	Yes	1-3x per week	1-3x per week	Yes	d-w	Yes	Yes	No	7.74
+29	B51	Female	>5	None	None	No	No	No	No	often	None	Colgate	1 - 2 months	2x	Cabinet/Drawer	No	1-3x per week	Less frequent	No	never	Yes	No	No	14.92
+30	C53	Female	>5	Yes	None	No	Yes	Yes	No	rarely-never	None	Other	1 - 2 months	1x	Cabinet/Drawer	No	1-3x per week	Daily	Yes	<monthly	Yes	Yes	No	1.77
+31	C54	Male	5-Jan	None	Yes	No	No	No	No	rarely-never	None	Colgate	1 - 2 months	1x	Cabinet/Drawer	No	1-3x per week	Daily	Yes	<monthly	Yes	Yes	No	1.65
+32	C57	Female	>5	None	Yes	No	Yes	No	No	rarely-never	None	Crest	< 1 month	1x	Sink Ledge	No	Daily	Daily	No	never	Yes	No	No	38.87
+33	C60	Male	5-Jan	None	Yes	No	No	No	No	often	None	Crest	2 - 3 months	2x	Sink Ledge	Yes	Daily	Daily	Yes	d-w	Yes	Yes	No	65.78
+34	C62	Male	5-Jan	Yes	Yes	Yes	No	No	Yes	rarely-never	None	Other	> 3 months	2x	Sink Ledge	No	Daily	Less frequent	Yes	<monthly	Yes	Yes	No	0.3
