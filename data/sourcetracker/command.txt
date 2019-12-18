@@ -1,0 +1,1 @@
+/Users/ryanblaustein/anaconda3/lib/R/bin/exec/R --slave --vanilla --args -i data/taxa_tables/genus/genus_merge_tb_hmp_oreg_gerl_1000x_edit.txt -m data/map_tables/mapping_tb_oreg_gerl_hmp_clean_edit.txt -o sourcetracker_out
