@@ -1,0 +1,16 @@
+association_rank	cluster1	cluster1_similarity_score	cluster2	cluster2_similarity_score	pvalue	qvalue	similarity_score_between_clusters
+1	Haemophilus_parainfluenzae_parC_conferring_resistance_to_fluoroquinolones__Haemophilus_parainfluenzae_	1.0	Bathroom_window	1.0	0.0	0.0	0.3547169100362329
+2	ErmB__Enterococcus_faecium_	1.0	Bathroom_window	1.0	0.00043489234407488499	0.065538276252085165	0.31601774697237811
+3	Haemophilus_parainfluenzae_parC_conferring_resistance_to_fluoroquinolones__Haemophilus_parainfluenzae_;tet(B)__Gram-negative_bacterium_TC71_	0.67136833801227846	Dietary_restrictions	1.0	0.0	0.0	0.30740481353087107
+4	antibiotic_resistant_fabG__Escherichia_coli_str__K-12_substr__MG1655_	1.0	Missing_teeth	1.0	0.0	0.0	0.29119133719616586
+5	smeS__Stenotrophomonas_maltophilia_	1.0	Missing_teeth	1.0	0.0	0.0	0.27154617403024989
+6	smeE__Stenotrophomonas_maltophilia_	1.0	Toothbrush_age	1.0	0.002	0.1	0.24372377363290346
+7	cpxA__Escherichia_coli_O157_H7_str__Sakai_	1.0	Missing_teeth	1.0	0.0	0.0	0.24268301343951018
+8	FosA5__Escherichia_coli_	1.0	Missing_teeth	1.0	0.0	0.0	0.24268301343951018
+9	LpxC__Acinetobacter_baumannii_;sul1__Vibrio_fluvialis_	0.39085839015603319	Alcohol_consumption;Coffee_consumption	0.15265352501189433	0.0	0.0	0.17917371727586082
+10	Planobispora_rosea_EF-Tu_mutants_conferring_resistance_to_inhibitor_GE2270A__Planobispora_rosea_;TEM-126__Escherichia_coli_	0.33785684950675865	Alcohol_consumption;Coffee_consumption	0.15265352501189433	0.0	0.0	0.17917371727586082
+11	Escherichia_coli_CyaA_with_mutation_conferring_resistance_to_fosfomycin__Escherichia_coli_str__K-12_substr__MC4100_;adeL__Acinetobacter_baumannii_;adeG__Acinetobacter_baumannii_AYE_	0.54778702717275496	Pets	1.0	0.0	0.0	0.12499774438222359
+12	ErmB__Enterococcus_faecium_;lsaC__Streptococcus_agalactiae_	0.26444794277227079	Pets	1.0	0.0	0.0	0.12499774438222359
+13	antibiotic_resistant_fabG__Escherichia_coli_str__K-12_substr__MG1655_;FosA5__Escherichia_coli_;Klebsiella_pneumoniae_OmpK35__Klebsiella_pneumoniae_subsp__pneumoniae_HS11286_;Haemophilus_parainfluenzae_gyrA_conferring_resistance_to_fluoroquinolones__Haemophilus_parainfluenzae_;ErmX__Corynebacterium_striatum_	0.29073598225726816	Pets	1.0	0.0	0.0	0.12499774438222359
+14	smeE__Stenotrophomonas_maltophilia_	1.0	Pets	1.0	0.0	0.0	0.12499774438222359
+15	cpxA__Escherichia_coli_O157_H7_str__Sakai_	1.0	Pets	1.0	0.0	0.0	0.12499774438222359
