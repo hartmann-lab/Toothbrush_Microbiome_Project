@@ -1,0 +1,16 @@
+association_rank	cluster1	cluster1_similarity_score	cluster2	cluster2_similarity_score	pvalue	qvalue	similarity_score_between_clusters
+1	Actinomyces_odontolyticus;Actinomyces_massiliensis;Actinomyces_viscosus;Granulicatella_adiacens	0.41778706552291855	Toothbrush_storage_location;Bathroom_window;Window_open_freq	0.20721144210963482	0.00019938708001714935	0.02592032040222942	0.40560556322251012
+2	Actinomyces_massiliensis	1.0	Mouthwash_freq	1.0	8.8374676238872358e-05	0.021189528141274241	0.35460626190103139
+3	Acinetobacter_johnsonii	1.0	Missing_teeth	1.0	0.0	0.0	0.33945340359392551
+4	Kingella_denitrificans;Porphyromonas_endodontalis	0.86755636645778955	Missing_teeth;Dental_devices;Adenoids_tonsils_removed	0.056785536517107382	0.0	0.0	0.33667750521872752
+5	Haemophilus_haemolyticus	1.0	Dietary_restrictions	1.0	0.0	0.0	0.30740481353087107
+6	Acinetobacter_lwoffii	1.0	Missing_teeth	1.0	0.0	0.0	0.24268301343951018
+7	Ochrobactrum_anthropi	1.0	Missing_teeth	1.0	0.0	0.0	0.24268301343951018
+8	Achromobacter_unclassified	1.0	Adenoids_tonsils_removed	1.0	0.0	0.0	0.24268301343951018
+9	Pseudomonas_putida	1.0	Pets	1.0	0.0	0.0	0.22329245099260181
+10	Aerococcus_viridans	1.0	Alcohol_consumption;Coffee_consumption	0.15265352501189433	0.0	0.0	0.17917371727586082
+11	Aerococcus_viridans;Acinetobacter_lwoffii;Pseudomonas_stutzeri	0.43552144853838826	Pets	1.0	0.0	0.0	0.17028655945839866
+12	Acinetobacter_parvus	1.0	Alcohol_consumption	1.0	0.0	0.0	0.1632508396774861
+13	Raoultella_ornithinolytica	1.0	Nonantibiotic_medications	1.0	0.0	0.0	0.13644677598708749
+14	Roseomonas_unclassified	1.0	Nonantibiotic_medications	1.0	0.0	0.0	0.13644677598708749
+15	Roseomonas_unclassified;Acinetobacter_johnsonii;Pseudomonas_aeruginosa;Ochrobactrum_anthropi	0.57434017445247942	Pets	1.0	0.0	0.0	0.12499774438222359

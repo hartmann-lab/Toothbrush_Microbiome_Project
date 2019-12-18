@@ -1,0 +1,24 @@
+HAllA version:	0.7.16
+Decomposition method: 	medoid
+Similarity method: 	nmi
+Hierarchical linkage method: 	average
+q: FDR cut-off : 	0.1
+FDR adjusting method : 	bh
+FDR using : 	level
+Applied stop condition : 	False
+Discretizing method : 	equal-area
+Permutation function: 	gpd
+Seed number: 	0
+Number of permutations iterations for estimating pvalues: 	1000
+Minimum entropy for filtering threshold in the first dataset : 	0.5
+Minimum entropy for filtering threshold in the second dataset: 	0.5
+
+Number of association cluster-by-cluster:	15
+Number of association feature-by-feature: 	37
+
+Hierarchical clustering time	0:00:07.146369
+Level-by-level hypothesis testing	0:08:33.723479
+number of performed permutation tests: 	4760
+Summary statistics time	0.00039005279541015625
+Plotting results time	0:00:14.184221
+Total execution time	0:08:55.071572
