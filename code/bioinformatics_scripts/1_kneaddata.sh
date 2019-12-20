@@ -5,7 +5,7 @@
 ### KNEADDATA for raw read quality control
 ###
 
-### Begin by downloading the toothbrush metagenomes raw seq files from NCBI SRA
+### Begin by downloading the toothbrush metagenomes raw seq files from NCBI SRA under Bioproject number PRJNA596937
 ### Set these files set to Toothbrush_Microbiome_Project/tb_raw_reads
 
 ## unzip files
